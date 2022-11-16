@@ -22,7 +22,6 @@
 
 - [Overview](#overview)
 - [Built With](#built-with)
-- [Features](#features)
 - [How to use](#how-to-use)
 
 <!-- OVERVIEW -->
@@ -39,12 +38,6 @@
 - Vite
 - Firebase
 - uuid
-
-## Features
-
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
-
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/TtUjDt19eIHxNQ4n5jps) was to build an application to complete the given user stories.
 
 ## How To Use
 
